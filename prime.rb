@@ -1,6 +1,7 @@
 # Add  code here!
-requi 
+require 'prime'
 def prime?(int) 
+  
   
   # if int % 2 == 0 
   #   return false
