@@ -1,9 +1,10 @@
 # Add  code here!
 def prime?(int) 
-  if Prime.prime?(int) == true 
+  if int % 2 != 0 
     return true 
-  else 
-    return false 
+  else
+    return false
   end
+    
 
 end
