@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(int) 
-  if int.prime? == true 
+  if Prime.prime?(int) == true 
     return true 
   else 
     return false 
