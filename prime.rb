@@ -1,9 +1,9 @@
 # Add  code here!
 def prime?(int) 
-  if int % 2 != 0 
-    return true
+  if int % 2 == 0 
+    return false
   else
-    return false 
+    return true
   end
     
 
